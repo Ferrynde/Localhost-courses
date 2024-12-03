@@ -140,6 +140,13 @@ input{
     border-bottom: 1px solid #8f1c3d;
     width: 250px;
 }
+.P1{
+    padding-inline-start: 270px;
+    padding-inline-end: 270px;
+    position: relative;
+    top: 5px;
+
+}
 
 button{
     color: white;
@@ -158,6 +165,7 @@ footer{
     text-align: center;
     color: white;
     padding-top: 10px;
+
 }
 
 
